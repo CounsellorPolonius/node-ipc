@@ -1,31 +1,17 @@
-Thanks for all the free pizza, and thanks to all the police that showed up to SWAT me. They were really nice fellas.
+Attempting to mess with node-ipc and remove the malware from it, mess around with it. This is not a serious fork or attempt to continue work on this. 
 
 node-ipc
 ================
 
 *a nodejs module for local and remote Inter Process Communication* with full support for Linux, Mac and Windows. It also supports all forms of socket communication from low level unix and windows sockets to UDP and secure TLS and TCP sockets.
 
-A great solution for complex multiprocess **Neural Networking** in Node.JS
+A great solution for complex multiprocess **Neural Networking** in Node.JS.
 
-#### for node <v14
-
-`npm install node-ipc@^9.0.0`
-
-#### including v10 or greater into your code
-
-```js
-
-//es6
-import ipc from 'node-ipc'
-
-//commonjs
-const ipc = require('node-ipc').default;	   
-		 
-```
+To install this you will need to build it from this (if you really want to, again this is just for me testing things). 
 
 #### License
 
-This work is licenced via the MIT Licence.
+This work has been re-licenced to the AGPL Licence.
 
 #### Older versions of node
 
