@@ -1,4 +1,4 @@
-Attempting to mess with node-ipc and remove the malware from it, mess around with it. This is not a serious fork or attempt to continue work on this. 
+Attempting to mess with node-ipc and remove the malware from it, mess around with it. This is not a serious fork or attempt to continue work on this. Keeping this repo as archival for me in case this guy ever comes back to work on it. I would rather have this old but safe version.
 
 node-ipc
 ================
