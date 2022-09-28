@@ -9,21 +9,10 @@ A great solution for complex multiprocess **Neural Networking** in Node.JS.
 
 To install this you will need to build it from this (if you really want to, again this is just for me testing things). 
 
-#### License
-
-This work has been re-licenced to the AGPL Licence.
-
 #### Older versions of node
 
 the latest versions of `node-ipc` may work with the --harmony flag. Officially though, we support node v4 and newer with es5 and es6
 
-#### Testing
-
-` npm test ` will run the jasmine tests with istanbul for node-ipc and generate a coverage report in the spec folder.
-
-You may want to install jasmine and istanbul globally with ` sudo npm install -g jasmine istanbul `
-
-----
 #### Contents
 
 1. [Types of IPC Sockets and Supporting OS](#types-of-ipc-sockets)
